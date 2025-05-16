@@ -1,9 +1,20 @@
-Usando la base de datos de Sakila en MySQL Workbench he realizado las 25 consultas que nos piden para la evaluación final del segundo módulo: Extraer Información de la Web y Bases de Datos.
+Consultas SQL con la Base de Datos Sakila
+Este proyecto consiste en la resolución de 25 consultas SQL utilizando la base de datos Sakila en MySQL Workbench, como parte de la evaluación final del segundo módulo: "Extracción de Información de la Web y Bases de Datos".
+Sobre la Base de Datos
+La base de datos Sakila contiene datos sobre actores, películas, categorías de películas, inventario, clientes, alquiler… Y otras tablas relacionadas.
+Objetivo
+El objetivo principal es poner en práctica los conocimientos adquiridos durante el módulo, aplicando distintas técnicas de consulta para resolver preguntas complejas sobre la base de datos.
+Entre los conceptos trabajados se incluyen:
+•	Funciones agregadas: COUNT(), SUM(), AVG(), etc.
+•	Cláusulas esenciales: GROUP BY, WHERE, HAVING, ORDER BY.
+•	Uniones entre tablas: INNER JOIN, LEFT JOIN, SELF JOIN.
+•	Subconsultas: Anidadas en cláusulas SELECT, FROM y WHERE.
+•	Filtrado y combinación de múltiples tablas para obtener resultados precisos.
+Estructura
+Cada ejercicio incluye:
+•	El enunciado de la consulta.
+•	La lista de las tablas utilizadas, especificadas en el orden en que han sido necesarias para establecer relaciones y obtener el resultado deseado.
+•	La consulta SQL correspondiente.
 
-La base de datos Sakila contiene información sobre actores, películas, categorías de películas, clientes, empleados, alquileres...
-
-El objetivo de la prueba es practicar el uso de las diferentes consultas que hemos aprendido durante el módulo, como funciones agregadas, COUNT y SUM; dominar e implementar funciones como GROUP BY, WHERE, HAVING y ORDER BY; realizar uniones entre las diferentes tablas, mediante el uso de SELF JOIN y de INNER JOIN; ejecutar subconsultas, para realizar consultas en varios pasos, y dominar el filtrado de múltiples tablas, con el fin de obtener los resultados requeridos en las preguntas que aparecen en la evaluación final.
-
-Después del enunciado de cada ejercicio he puesto las tablas que he usado para realizar cada función, en el orden que las voy a necesitar para relacionar las tablas y obtener los resultados pertinentes.
 
 
