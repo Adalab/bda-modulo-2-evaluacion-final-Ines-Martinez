@@ -26,7 +26,7 @@ Entre los conceptos trabajados se incluyen:
 - **Subconsultas**: Anidadas en cláusulas `SELECT`, `FROM` y `WHERE`.  
 - **Filtrado y combinación de múltiples tablas** para obtener resultados precisos.
 
-## Estructura del Trabajo
+## Estructura del trabajo
 
 Cada ejercicio incluye:
 
